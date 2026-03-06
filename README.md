@@ -1,10 +1,12 @@
-# 👋 Hey, I'm KontoraI
+<div align="center">
+
+<h1>👋 Hey, I'm KontoraI</h1>
 
 <img src="https://i.pinimg.com/1200x/61/6d/a6/616da63705b8a1cd58aec985f533fc22.jpg" width="120" height="120" style="border-radius: 50%;">
 
 ### 🚀 Backend Developer
 
-*Building scalable services & microservice architectures*
+_Building scalable services & microservice architectures_
 
 [![Go](https://img.shields.io/badge/💻_Main_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 
@@ -58,7 +60,7 @@
 
 ### 🤝 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kontowa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KontoraI)
 
 </div>
